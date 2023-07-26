@@ -1,2 +1,2 @@
 # Personal-Finance-Tracker
-web dev project
+web dev project maintaining our personal finances
